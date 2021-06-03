@@ -17,19 +17,19 @@ const db = {
   users: [
     {
       id: 32,
-      password: 'jennifer',
-      username: 'John',
+      password: 'utahjazz',
+      username: 'Rudy',
       color: '#c23616',
       favorites: [21453, 462],
-      email: 'bouclierman@herocorp.io',
+      email: 'rudy.gobert@nba.com',
     },
     {
       id: 55,
-      password: 'fructis',
-      username: 'Burt',
+      password: 'difficult',
+      username: 'Unkindled',
       color: '#009432',
       favorites: [8965, 11],
-      email: 'acidman@herocorp.io',
+      email: 'darksouls@fromsoftware.com',
     },
     {
       id: 123,
